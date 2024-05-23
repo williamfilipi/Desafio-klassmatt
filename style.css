@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: rgb(32, 24, 66);
+}
+
+.container{
+    text-align: center; 
+    height: 400px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bloco {
+    width: 100px;
+    height: 100px;
+    font-size: 30px;
+}
+
+.jogada{
+    margin: 20px;
+}
